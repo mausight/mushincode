@@ -1,0 +1,29 @@
+h1{
+     color:darkblue;
+    font-size: 50px; 
+    text-transform: uppercase;
+    text-align: center;
+   }
+h2{
+    color:red;
+    text-transform: inherit;
+    font-size: 50;
+    text-align: center;
+  }
+p{
+color: black; 
+font-size:24px
+ }
+li{
+    color: black;
+    font-size:16px; text-
+  }
+   
+ul{
+    margin-top:-10px;
+}
+img{
+    height:100%;
+    width:100%;
+}
+
